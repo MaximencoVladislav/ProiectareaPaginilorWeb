@@ -1,1 +1,1 @@
-# ProiectareaPaginilorWeb
+# Proiectarea Paginilor Web
